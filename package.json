@@ -5,6 +5,9 @@
   "main": "server-index.js",
   "browser": "browser-index.js",
   "dependencies": {
+    "express": "3.4.0",
+    "node-jsx": "petehunt/node-jsx",
+    "optimist": "0.6.0",
     "parse": "petehunt/parsesdk-isomorphic",
     "React": "petehunt/react-core"
   },
