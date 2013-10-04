@@ -1,0 +1,15 @@
+{
+  "name": "ReactHack",
+  "version": "0.0.0",
+  "description": "ReactHack core libraries",
+  "main": "index.js",
+  "dependencies": {
+    "parse": "petehunt/parsesdk-isomorphic"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Pete Hunt",
+  "license": "Apache 2"
+}
