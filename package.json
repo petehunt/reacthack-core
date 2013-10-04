@@ -2,7 +2,8 @@
   "name": "ReactHack",
   "version": "0.0.0",
   "description": "ReactHack core libraries",
-  "main": "index.js",
+  "main": "server-index.js",
+  "browser": "browser-index.js",
   "dependencies": {
     "parse": "petehunt/parsesdk-isomorphic",
     "React": "petehunt/react-core"
