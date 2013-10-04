@@ -4,7 +4,8 @@
   "description": "ReactHack core libraries",
   "main": "index.js",
   "dependencies": {
-    "parse": "petehunt/parsesdk-isomorphic"
+    "parse": "petehunt/parsesdk-isomorphic",
+    "React": "petehunt/react-core"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
