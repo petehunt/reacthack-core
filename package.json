@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "ReactHack core libraries",
   "main": "server-index.js",
+  "bin": {
+    "server": "bin/server.js"
+  },
   "browser": "browser-index.js",
   "dependencies": {
     "express": "3.4.0",
