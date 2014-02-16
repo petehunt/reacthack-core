@@ -1,6 +1,6 @@
 {
   "name": "ReactHack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ReactHack core libraries",
   "main": "server-index.js",
   "bin": {
@@ -9,10 +9,10 @@
   "browser": "browser-index.js",
   "dependencies": {
     "express": "3.4.0",
-    "node-jsx": "petehunt/node-jsx",
+    "node-jsx": "~0.2.1",
     "optimist": "0.6.0",
     "parse": "petehunt/parsesdk-isomorphic",
-    "React": "petehunt/react-core"
+    "react": "~0.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
